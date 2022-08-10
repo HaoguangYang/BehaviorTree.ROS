@@ -1,3 +1,5 @@
+# This repository is archived, as we are expanding the scope of the repository beyond the forked project. A new stand-alone repository will replace this repository.
+
 # ReFRESH (Reconfigurable Framework for Real-time Embedded Software and Hardware)
 
 This is a ROS integration of the ReFRESH framework as a middleware for real-time self-adaptation of robotic systems on both behavior and composition, involving both software and hardware.
